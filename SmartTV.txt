@@ -192,22 +192,6 @@ tv-static.scdn.co
 tv.deezer.com
 xml.opera.com
 
-
-# Netflix
-# secure, api-global, ichnaea, and appboot break Netflix
-#secure.netflix.com                   
-#api-global.netflix.com
-#ichnaea.netflix.com
-#appboot.netflix.com
-customerevents.netflix.com
-nrdp.nccp.netflix.com
-
-# Spotify
-api-tv.spotify.com
-
-# Hulu
-api.distribution.hulu.com
-
 # Sharp Smart TV using Opera OS (thanks to sml156)
 # time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
 # api.accuweather.com                  # probably not a good idea to block this one
